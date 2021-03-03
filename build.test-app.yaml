@@ -1,0 +1,11 @@
+name: Araba build -> Test 
+
+jobs:
+  build:
+    steps:
+      - mkdir araba-fabrikasi
+      - cd araba-fabrikasi
+      - touch araba.txt
+      - echo "kaporta" > araba.txt
+      - echo "motor" > araba.txt
+      - echo "tekerlekler" > araba.txt
