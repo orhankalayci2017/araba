@@ -9,3 +9,4 @@ jobs:
       - echo "kaporta" > araba.txt
       - echo "motor" > araba.txt
       - echo "tekerlekler" > araba.txt
+      - echo "kapılar" > araba.txt
